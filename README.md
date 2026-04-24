@@ -3,7 +3,7 @@ Project 3: Turing Machine Simulator
 CS 361
 ------------------------------------------------------------------------
 
-Author: Diego Dominguez
+Authors: Diego Dominguez, Hunter McCallister
 
 ------------------------------------------------------------------------
 Overview

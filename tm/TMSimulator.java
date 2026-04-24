@@ -12,6 +12,7 @@ import java.io.IOException;
  * <p>Usage: java tm.TMSimulator &lt;inputFile&gt;</p>
  *
  * @author Diego Dominguez
+ * @author Hunter McCallister
  */
 public class TMSimulator {
 

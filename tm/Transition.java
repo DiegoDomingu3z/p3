@@ -6,6 +6,7 @@ package tm;
  * and direction to move the tape head.
  *
  * @author Diego Dominguez
+ * @author Hunter McCallister
  */
 public class Transition {
 

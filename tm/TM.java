@@ -8,6 +8,7 @@ package tm;
  * The transition table is flattened into parallel arrays for fast lookup.
  *
  * @author Diego Dominguez
+ * @author Hunter McCallister
  */
 public class TM {
 

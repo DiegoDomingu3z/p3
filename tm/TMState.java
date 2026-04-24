@@ -5,6 +5,7 @@ package tm;
  * Each state holds an array of transitions, one for each tape symbol.
  *
  * @author Diego Dominguez
+ * @author Hunter McCallister
  */
 public class TMState {
 
