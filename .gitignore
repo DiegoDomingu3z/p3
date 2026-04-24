@@ -1,2 +1,7 @@
 *.class
 .claude/
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/p3.iml
+/.idea/vcs.xml
